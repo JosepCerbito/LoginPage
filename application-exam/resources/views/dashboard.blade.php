@@ -37,7 +37,7 @@
             <div class="card-body">
                 <h5 class="card-title">{{ $post->title }}</h5>
                 <p class="card-text">{{ $post->content }}</p>
-                <p class="card-text">Date: {{ $post->created_at }}</p>
+                <p class="card-text">Date: {{ $post->formatted_created_at }}</p>
                 <div class="d-flex">
                     @if(Auth::id() == $post->userid)
                         <form action="{{ route('post.delete', $post->id) }}" method="post" onsubmit="return confirm('Are you sure you want to delete this post?');">
