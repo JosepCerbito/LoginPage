@@ -3,7 +3,7 @@ This is a program test with Log in, register, and it can also create, display, u
 
 you can install this by cloning the repository.
 
-git clone 
+git clone https://github.com/JosepCerbito/LoginPage.git
 
 to run the code, run this command in the termina:
 php artisan serve
