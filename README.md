@@ -1,5 +1,5 @@
 # Skill Test
-This is a program test with Log in, register, and it can also create, display, update and delete posts.
+This is a program test using laravel 10 and boottrap 5 for ui. It has Log in, register, and it can also create, display, update and delete posts.
 
 you can install this by cloning the repository.
 
