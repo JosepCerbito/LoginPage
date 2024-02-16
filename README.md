@@ -1,4 +1,4 @@
-# LoginPage
+# Skill Test
 This is a program test with Log in, register, and it can also create, display, update and delete posts.
 
 you can install this by cloning the repository.
